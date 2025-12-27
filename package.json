@@ -2,6 +2,7 @@
   "name": "backend-siesa",
   "version": "1.0.0",
   "description": "Backend proxy for Siesa API",
+  "type": "module",
   "main": "api/siesa-proxy.js",
   "scripts": {
     "start": "node api/siesa-proxy.js"
