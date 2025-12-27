@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/siesa-proxy",
+      "destination": "/api/siesa-proxy.js"
+    }
+  ]
+}
